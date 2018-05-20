@@ -1,8 +1,6 @@
-# Nodefolio
+# Mysite
 
-A simple example of a node application with express on how to serve files and deal with routing.
-
-Portfolio theme found at - http://blacktie.co/2014/05/instant-personal-portfolio-theme/
+This is my Portfolio website. 
 
 
 ## Installation
@@ -17,8 +15,5 @@ First you need to install your node modules by running the command `npm i`.
 
 Once those are downloded, you can then run the application by typing `node app.js` and hitting enter.
 
-You will then be able to visit this site locally at http://localhost:3000
+You will then be able to visit this site locally at http://localhost:port
 
-## Demo
-
-A live version of the site can be viewed at http://nodefolio.azurewebsites.net
